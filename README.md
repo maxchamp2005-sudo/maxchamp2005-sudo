@@ -11,4 +11,4 @@ I'm a Computer Science student at Florida International University interested in
 Java, Python, Dart, Flutter, Git, Object-Oriented Programming, and Software Testing
 
 ### Current interests
-Software Engineering • AI/ML • Backend Systems • Mobile Development • Efficient Computing
+Software Engineering - AI/ML - Backend Systems - Mobile Development - Efficient Computing
